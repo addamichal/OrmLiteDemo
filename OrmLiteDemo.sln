@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrmLiteDemo", "OrmLiteDemo\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameworkDemo", "EntityFrameworkDemo\EntityFrameworkDemo.csproj", "{3DA26D2A-DA72-4C0E-9429-BAF17DF61741}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlClientDemo", "SqlClientDemo\SqlClientDemo.csproj", "{1524A5F1-6C96-4C4A-90FE-38F88EDBC821}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3DA26D2A-DA72-4C0E-9429-BAF17DF61741}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3DA26D2A-DA72-4C0E-9429-BAF17DF61741}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3DA26D2A-DA72-4C0E-9429-BAF17DF61741}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1524A5F1-6C96-4C4A-90FE-38F88EDBC821}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1524A5F1-6C96-4C4A-90FE-38F88EDBC821}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1524A5F1-6C96-4C4A-90FE-38F88EDBC821}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1524A5F1-6C96-4C4A-90FE-38F88EDBC821}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
